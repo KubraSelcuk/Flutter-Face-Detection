@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1075063099490",
+    "project_id": "face-recognition-app-aefd1",
+    "storage_bucket": "face-recognition-app-aefd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075063099490:android:347c0099c676a63868013b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_face_recognation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075063099490-drcrnfo6h1qm9vmj44ovf5ju9d0gh9oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzp1FTGtBTD0ia_oitlMat9XD1z7Yqmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075063099490-drcrnfo6h1qm9vmj44ovf5ju9d0gh9oj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1075063099490-gojf5l0u1jq0q3e8032klnm2qnktqsk8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFaceRecognationApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
